@@ -14,4 +14,3 @@ Output: 0
 Explanation: 
 row 1: 0
 row 2: 01
-![image](https://github.com/Ruthvik7382/Kth_symbol_in_Grammar/assets/74092141/ef45d0d8-dbe0-4b3f-b36e-0895ee721b8e)
